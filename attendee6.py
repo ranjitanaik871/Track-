@@ -8,4 +8,4 @@ print("Removed list",list)
 
 #using clear once the event is completed
 list.clear()
-print(list)
+print("cleared list:",list)
