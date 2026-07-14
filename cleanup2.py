@@ -1,3 +1,4 @@
+#sales record cleanup
 sales_figure=[1000,500,20,60,800,700]
 
 print("sales figure:",sales_figure)
